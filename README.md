@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashsh662" target="blank"><img src="https://img.shields.io/twitter/follow/yashsh662?logo=twitter&style=for-the-badge" alt="yashsh662" /></a> </p>
 
-- 🔭 I’m currently working on **E-Wallet Application**
+- 🔭 I’m currently working on **Newspaper E-commerce**
 
 - 🌱 I’m currently learning **Spring Boot, Kafka**
 
