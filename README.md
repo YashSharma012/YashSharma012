@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Newspaper E-commerce**
 
-- 🌱 I’m currently learning **Spring Boot, Kafka**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java, DSA, Backend(Spring Boot)**
 
