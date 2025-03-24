@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/yashsh662" target="blank"><img src="https://img.shields.io/twitter/follow/yashsh662?logo=twitter&style=for-the-badge" alt="yashsh662" /></a> </p>
 
-- 🔭 I’m currently working on **Newspaper E-commerce**
-
-- 🌱 I’m currently learning **AWS**
-
 - 💬 Ask me about **Java, DSA, Backend(Spring Boot)**
 
 - 📫 How to reach me **yashsh662@gmail.com**
   
 - I’m looking to collaborate on **Java Projects and Backend Project**
-
-- ⚡ Fun fact **While steering my trusty tractor through the fields, I had a lightbulb moment for a coding challenge. The rhythmic hum of the engine sparked an idea, and by the time I parked, I'd cracked the code. Who says you can't debug and plow at the same time? 🚜💻 #AgriCoder #FieldDebugging"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
